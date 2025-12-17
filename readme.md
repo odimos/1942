@@ -13,6 +13,8 @@
 
 [▶ Δες ένα demo του παιχνιδιού](1942trailer.mp4)
 
+[Κατέβασέ το](https://github.com/odimos/1942/releases/tag/game)
+
 Το artwork είναι από το επίσημο retro παιχνίδι
 Για τις βασικές λειτουργίες game engine χρησιμοποιήθηκε η βιβλιοθήκη SGG  
 
