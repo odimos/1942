@@ -11,7 +11,7 @@
 
 ![propaganda](propaganda.jpg)
 
-[▶ Δες ένα demo του παιχνιδιού](1942trailer.mp4)
+![▶ Δες ένα demo του παιχνιδιού](1942trailer.mp4)
 
 [Κατέβασέ το](https://github.com/odimos/1942/releases/tag/game)
 
